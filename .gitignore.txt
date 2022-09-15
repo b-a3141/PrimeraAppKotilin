@@ -1,0 +1,5 @@
+.bild.gradle
+.gradle.properties
+.gradlew
+.LICENCE
+.README.md
